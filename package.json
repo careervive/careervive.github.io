@@ -1,0 +1,15 @@
+{
+  "name": "careervive-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "The CareerVive website. Static pages served with clean web addresses.",
+  "scripts": {
+    "start": "serve . -l tcp://0.0.0.0:${PORT:-3000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

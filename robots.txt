@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cv-score-introduction
+
+Sitemap: https://www.careervive.io/sitemap.xml
