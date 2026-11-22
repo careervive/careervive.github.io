@@ -21,6 +21,11 @@ Railway option below and are not used by GitHub Pages.
 The video on `/cv-score-introduction` is `media/how-your-score-works.mp4` (2 minutes 36 seconds, 28 MB, Aneal's
 own film, 22 November 2026).
 
+Changes of 22 November 2026, later: `privacy.html` and `terms.html` hold Aneal's own text from the Kajabi pages, word
+for word (last updated 26 July 2026); every page links to them. The webinar page and its links are gone (Aneal: "no
+more webinar"). `consent.js` is the cookie choice and the Meta pixel, loaded only after Accept. `job-search-os.html`
+is the platform's landing page.
+
 ## Put it on Railway
 
 1. Push this folder to a GitHub repository.
