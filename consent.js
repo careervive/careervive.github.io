@@ -15,7 +15,7 @@
   var KEY = 'cv-cookie-choice';
   var YEAR = 365 * 24 * 60 * 60 * 1000;
   var WORDS = {
-    text: "With your permission, we use Meta's cookies to see which of our adverts brought you here. Nothing is stored until you choose.",
+    text: "We use cookies to see how our adverts are doing. You can read more in our",
     privacy: 'Privacy Notice',
     accept: 'Accept',
     reject: 'Reject',
