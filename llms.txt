@@ -1,0 +1,27 @@
+# CareerVive
+
+> CareerVive is career coaching, leadership and AI training, and a job search platform for professionals. Aneal Birdi founded it in Birmingham, United Kingdom, in 2019. The tagline is "We make your career fly."
+
+## Key facts
+
+- Founder: Aneal Birdi. 13 years in investment banking and consulting, including Goldman Sachs. More than 2,000 career conversations since 2019.
+- Coaching paths: Rise (go higher where you already are), Reposition (change direction without starting over), Build (turn what you know into something that earns).
+- Free CV score: a score out of 100 for today's job market and the future one, across Clarity, Positioning, Future desirability and Strategy, with the three changes to make first. One per person.
+- Job Search OS: the CareerVive platform at app.careervive.io. Discover your STORY, write your CV, search for jobs across LinkedIn, Reed, Indeed, UK job boards, agencies and employers' own pages, and write cover letters and application answers from your own evidence.
+- The STORY method: Situation, Task, Obstacles, Results and why it mattered, captured in the person's own words.
+- Job Search OS plans: Membership £49 a month or £119 for three months; Premium £69 or £149; Premium+ £99 or £249. Cancel at any time.
+- Reviews: rated Excellent on Trustpilot (https://uk.trustpilot.com/review/careervive.co.uk).
+- Contact: aneal@careervive.io
+
+## Pages
+
+- [Home](https://www.careervive.io/): what CareerVive does
+- [Free CV score](https://www.careervive.io/cv-score): send a CV and get a score out of 100
+- [Job Search OS](https://www.careervive.io/job-search-os): the platform, its features and prices
+- [Rise](https://www.careervive.io/rise): coaching to reach your next level
+- [Reposition](https://www.careervive.io/reposition): coaching to change direction
+- [Build](https://www.careervive.io/build): coaching to build a business
+- [Training](https://www.careervive.io/training): leadership and AI training
+- [Results](https://www.careervive.io/results): client reviews
+- [About](https://www.careervive.io/about): Aneal Birdi's story
+- [Privacy](https://www.careervive.io/privacy) and [Terms](https://www.careervive.io/terms)
